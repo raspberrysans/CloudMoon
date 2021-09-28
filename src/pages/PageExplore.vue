@@ -55,7 +55,7 @@ export default defineComponent({
   data(){
     return{
       input_text:"",
-      api_key:'5ec29c08a695e02b7623c4ed90f8a66b', // Gnews API Key
+      api_key:'Enter your own key', // Gnews API Key
       articles: [],
       errors: [] 
     }
