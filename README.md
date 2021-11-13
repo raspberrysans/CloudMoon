@@ -1,4 +1,5 @@
 # CloudMoon
+## Version 3.0 coming soon!
 ## A Twitter Clone using VueJS, Quasar Framework and Firebase
 ### Check out the live website: <a href="https://cloudmoon-v2.netlify.app/#/"> CloudMoon </a>
 
